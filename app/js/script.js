@@ -5,7 +5,7 @@ console.log("|")
 console.log("|")
 console.log("|")
 console.log("Túto webstránku spravil oliminator")
-var countDownDate = new Date("November 1, 2021 19:45:15").getTime();
+var countDownDate = new Date("October 29, 2021 19:30:15").getTime();
 
 var x = setInterval(function() {
 
